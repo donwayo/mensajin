@@ -1,0 +1,12 @@
+#agenda	{position: static;}
+.icon	{display: block; float: left}
+.operadores li	{width: 43px}
+#editarDatos .input_phone	{display: inline}
+#replaceici{min-height: 440px; height:auto !important; height:440px;}
+#agenda h2	{top: 18px}
+
+.logo a, .shadow_t, .shadow_b, .contact_search .magni, .icon{background-image: url(images/sprite.gif)}
+.nav .cut	{background: none}
+
+.nav ul, .nav a {height: 36px;}
+.icon.fb_login	{background: url(images/fb_login.png) no-repeat 0 0; width: 217px; height: 25px; cursor: pointer;}
